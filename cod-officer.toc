@@ -1,0 +1,6 @@
+## Interface: 40000
+## Title: CoD Officer
+## Notes: "Addon for CoD Officers"
+## Version: 0.1
+## X-Website: https://github.com/Kelsin/cod-officer
+cod-officer.lua
