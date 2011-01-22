@@ -1,6 +1,9 @@
 ## Interface: 40000
 ## Title: CoD Officer
-## Notes: "Addon for CoD Officers"
+## Notes: Addon for CoD Officers
+## Author: Christopher "Kelsin" Giroir <kelsin@valefor.com>
 ## Version: 0.1
 ## X-Website: https://github.com/Kelsin/cod-officer
 cod-officer.lua
+cod-officer.xml
+
